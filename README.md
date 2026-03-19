@@ -19,4 +19,6 @@ This project analyzes major tech layoffs in 2026, focusing on the impact of AI a
 - Stock prices often increase after layoffs
 - Shift toward AI-related roles
 
-# Project Structure
+# Tech Layoffs 2026 Analysis
+Dataset used in this project is sourced from (https://www.kaggle.com/datasets/alitaqishah/tech-layoffs-2026-ai-job-cuts-tracker) 
+All analysis and visualizations are done by me.
